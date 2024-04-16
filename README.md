@@ -14,10 +14,8 @@ This project is a simple To-Do application built using ReactJS and Redux. It all
 
 - ReactJS: For building the user interface and components.
 - Redux: For managing the application's state.
-- Redux Thunk: Middleware for handling asynchronous actions in Redux (optional).
 - HTML/CSS: For structuring the application layout and styling.
 - JavaScript (ES6+): For implementing the application logic.
-- Local Storage: For storing tasks persistently in the browser.
 
 ## Project Structure
 
@@ -37,4 +35,24 @@ The project follows a typical React project structure, with the following main d
 
      ```bash
 npm start
+
+## LIVE Projects
+
+https://dainty-baklava-c29508.netlify.app/#
+
+## Screenshot
+
+## Laptop View
+
+![App Screenshot](https://github.com/devgeek2700/To-Do-List-Using-Redux/blob/master/src/Output/o1.png?raw=true)
+
+## Tablet View
+
+![App Screenshot](https://github.com/devgeek2700/To-Do-List-Using-Redux/blob/master/src/Output/o2.png?raw=true)
+
+
+## Moblie View
+
+![App Screenshot](https://github.com/devgeek2700/To-Do-List-Using-Redux/blob/master/src/Output/o3.png?raw=true)
+
 
